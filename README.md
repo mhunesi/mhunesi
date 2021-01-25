@@ -90,8 +90,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2073](https://github.com/luyadev/luya/issues/2073) in [luyadev/luya](https://github.com/luyadev/luya)
-2. ❗️ Opened issue [#2073](https://github.com/luyadev/luya/issues/2073) in [luyadev/luya](https://github.com/luyadev/luya)
-3. 💪 Opened PR [#1](https://github.com/ayrozjlc/yii2-blockui/pull/1) in [ayrozjlc/yii2-blockui](https://github.com/ayrozjlc/yii2-blockui)
+2. 🗣 Commented on [#2073](https://github.com/luyadev/luya/issues/2073) in [luyadev/luya](https://github.com/luyadev/luya)
+3. ❗️ Opened issue [#2073](https://github.com/luyadev/luya/issues/2073) in [luyadev/luya](https://github.com/luyadev/luya)
 <!--END_SECTION:activity-->
 
 </details>
