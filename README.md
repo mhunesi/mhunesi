@@ -1,18 +1,16 @@
-### Hi there, I'm Mustafa 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It%27s+Mustafa!;I%27m+a+Developer+and+Teacher...;And+I%27m+from+Turkey+%F0%9F%87%B9%F0%9F%87%B7)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?label=mustafaunesi.com.tr&style=for-the-badge&url=https%3A%2F%2Fmustafaunesi.com.tr)](https://mustafaunesi.com.tr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mhunesi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmhunesi&screen_name=mhunesi)
 
-## I'm a Developer and Teacher!!
+<img src="https://profile-counter.glitch.me/mhunesi/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/mhunesi.svg?style=social&label=Followers)](https://github.com/mhunesi?tab=followers)
 
 - 🔭 I’m currently working on PIM Management
 - 🌱 I’m currently learning Deep Learning
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mustafahayrii)
 
 ### Connect with me:
 
